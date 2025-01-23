@@ -8,6 +8,7 @@ build.properties
 classes_gen
 source_gen
 source_gen.caches
+DS_Store
 
 # generated test code and test results
 test_gen
